@@ -1,0 +1,38 @@
+{
+  "name": "wyzad-race-class-spells",
+  "title": "Spells Classes Feats and Races",
+  "description": "<p></p>",
+  "author": "R20Converter",
+  "version": "0.8.94",
+  "minimumCoreVersion": "0.4.4",
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Handouts (Spells Classes Feats and Races)",
+      "path": "packs/journal.db",
+      "module": "wyzad-race-class-spells",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Spells Classes Feats and Races)",
+      "path": "packs/actors.db",
+      "module": "wyzad-race-class-spells",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items (Spells Classes Feats and Races)",
+      "path": "packs/items.db",
+      "module": "wyzad-race-class-spells",
+      "entity": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Spells Classes Feats and Races)",
+      "path": "packs/scenes.db",
+      "module": "wyzad-race-class-spells",
+      "entity": "Scene"
+    }
+  ]
+}
